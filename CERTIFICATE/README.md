@@ -18,3 +18,4 @@ Trading Algorithms
 
 Financial Markets 
 ![image](https://github.com/user-attachments/assets/7f08890f-c69b-4dc1-8492-ba0d8292c6a4)
+https://coursera.org/share/9f8b580ee31a9316c646ca5d9cb7e8bd
