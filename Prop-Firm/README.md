@@ -38,7 +38,7 @@ We are happy to inform you that now you are eligible for the Master Account.
 
 Account Size: $50,000
 
-Account: BX45244-04
+Account: BXXXXX-04
 
 What to Do Next:
 Step I
