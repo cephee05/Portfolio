@@ -15,3 +15,6 @@ https://portal.bloombergforeducation.com/certificates/ARbZnsG2d1H99fhAQffQcWcS
 Coursera
 Trading Algorithms
 ![image](https://github.com/user-attachments/assets/24d48c4f-d7a0-4cec-b7cf-ba9ab0cff9d5)
+
+Financial Markets 
+![image](https://github.com/user-attachments/assets/7f08890f-c69b-4dc1-8492-ba0d8292c6a4)
