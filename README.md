@@ -36,7 +36,7 @@ A library of scriptable bots for scalping, reversal, DCA and more.
 End-to-end Jupyter notebooks and Python scripts for feature engineering, model training, and backtests.  
 → Folder: `[Data-Projects/]'
 '(https://github.com/cephee05/MachineLearningCertification)'
-'(https://github.com/cephee05/btc-spread-MLprediction)`
+'(https://github.com/cephee05/btc-spread-MLprediction)'
 
 ---
 
