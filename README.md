@@ -24,7 +24,7 @@ This repository collects my professional achievements: certifications, prop-firm
 
 ### Prop-Firm Challenges  
 A collection of automated strategies and performance summaries for prop-firm evaluations.  
-→ Folder: `Prop-Firm/`
+→ Folder: `Prop-Firm`
 
 ### Trading Bots  
 A library of scriptable bots for scalping, reversal, DCA and more.  
