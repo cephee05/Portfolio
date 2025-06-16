@@ -28,11 +28,15 @@ A collection of automated strategies and performance summaries for prop-firm eva
 
 ### Trading Bots  
 A library of scriptable bots for scalping, reversal, DCA and more.  
-→ Folder: `BOT/`
+→ Folder: `[BOT/]`
+'(https://github.com/cephee05/PAIR-TRADING)'
+'(https://github.com/cephee05/Crypto-bot)'
 
 ### Data Science & ML  
 End-to-end Jupyter notebooks and Python scripts for feature engineering, model training, and backtests.  
-→ Folder: `[Data-Projects/]''(https://github.com/cephee05/MachineLearningCertification)''(https://github.com/cephee05/btc-spread-MLprediction)`
+→ Folder: `[Data-Projects/]'
+'(https://github.com/cephee05/MachineLearningCertification)'
+'(https://github.com/cephee05/btc-spread-MLprediction)`
 
 ---
 
