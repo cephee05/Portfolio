@@ -10,7 +10,7 @@ This repository collects my professional achievements: certifications, prop-firm
 
 | Certification                       | Issuer                     | Link                                                                 |
 |-------------------------------------|----------------------------|----------------------------------------------------------------------|
-| ReCodeCamp Machine Learning         | ReCodeCamp                 |https://freecodecamp.org/certification/fcc0c407fad-fbd8-4332-9a56-18ec7aabfd78/machine-learning-with-python-v7                                                 |
+| FreeCodeCamp Machine Learning         | FreeCodeCamp                 |https://freecodecamp.org/certification/fcc0c407fad-fbd8-4332-9a56-18ec7aabfd78/machine-learning-with-python-v7                                                 |
 | Bloomberg Market Concepts           | Bloomberg for Education    |https://portal.bloombergforeducation.com/certificates/ARbZnsG2d1H99fhAQffQcWcS       |
 | Bloomberg ESG                       | Bloomberg for Education    |https://portal.bloombergforeducation.com/certificates/ddpY5KqbawNqM1X1bUqJQ17G    |
 | Trading Algorithms (Coursera)       | Coursera                   | https://coursera.org/share/7c8206dcf9dbb47ad1293e3fe89b1024                                                        |
