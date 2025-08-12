@@ -60,14 +60,15 @@ Landing B2B pour **reporting P&L/KPI**, **budgets/forecasts**, **exports PDF**, 
 ---
 
 ### 3) Suivi de Wallet – Hyperliquid (Paper)
-Page de présentation d’un **bot de suivi d’adresses** (paper), sizing auto, logs & alertes Telegram.
+Page de présentation d’un **outil de suivi d’adresses** (paper), sizing auto, logs & alertes Telegram.
 - **Fonctions** : suivi positions, PnL paper, limites de risque, CSV/rapports.
 - **Stack** : HTML/Tailwind, formulaire → Telegram, démo vidéo (Loom).
-- 🔗 LIVE: https://bot-4t.github.io/HyperLiquid_copywallets/
+- 🔗 DEMO: https://bot-4t.github.io/HyperLiquid_copywallets/
 
-> *Mode démonstration (paper). Aucun ordre réel, aucune promesse de performance, pas de collecte de fonds.*
-> *Proof of Concept (PoC) : page de démonstration non contractuelle, créée pour montrer à quoi pourrait ressembler le projet.*
-> *Ce projet est uniquement utilisé à but personnel il n'est et ne sera pas distribué à une tiers personne.*
+> **Mode démonstration (PAPER).** Aucune exécution réelle, aucune promesse de performance, 
+> pas de collecte de fonds. **PoC non contractuel** destiné à montrer le rendu. 
+> **Usage personnel uniquement.** Les clés/API restent chez l’utilisateur. 
+> Aucune RTO ni exécution pour autrui. Ce projet n’est pas et ne sera pas distribué ni commercialisé.
 ---
 
 ### 📦 Fichiers / Structure conseillée
