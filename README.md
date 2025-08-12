@@ -59,7 +59,7 @@ Landing B2B pour **reporting P&L/KPI**, **budgets/forecasts**, **exports PDF**, 
 
 ---
 
-### 3) Copytrading Wallet – Hyperliquid (Paper)
+### 3) Suivi de Wallet – Hyperliquid (Paper)
 Page de présentation d’un **bot de suivi d’adresses** (paper), sizing auto, logs & alertes Telegram.
 - **Fonctions** : suivi positions, PnL paper, limites de risque, CSV/rapports.
 - **Stack** : HTML/Tailwind, formulaire → Telegram, démo vidéo (Loom).
