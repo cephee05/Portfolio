@@ -38,6 +38,40 @@ End-to-end Jupyter notebooks and Python scripts for feature engineering, model t
 '(https://github.com/cephee05/MachineLearningCertification)'
 '(https://github.com/cephee05/btc-spread-MLprediction)'
 
+## 🌐 Landing Pages / Projects / Freelance 
+
+### 1) Dev d’Algos de Trading (R&D)
+Site vitrine pour la conception d’**outils d’aide à la décision** (backtests WFA/Monte Carlo, risk mgmt, déploiement VPS, alertes Telegram).
+- **Public cible** : particuliers (B2C) et petites structures.
+- **Stack** : HTML/Tailwind, Formulaire → Telegram DM, statique (GitHub Pages/VPS).
+- **CTA** : Demande de démo / audit gratuit.
+- 🔗 LIVE: https://bot-4t.github.io/DEV-4TRADINGALGO/
+- 🖼️ Preview: `assets/landing-algo.png`
+> *Avertissement : pas de conseil en investissement ; outils pédagogiques & d’aide à la décision uniquement.*
+
+---
+
+### 2) Dashboards & Rapports Automatisés (Entreprises)
+Landing B2B pour **reporting P&L/KPI**, **budgets/forecasts**, **exports PDF**, pipelines **Python/SQL/Power BI**.
+- **Use cases** : DAF/Contrôle de gestion, suivi commercial, opérations.
+- **Promesse** : -70% temps de production de reportings (indicatif).
+- **Stack** : HTML/Tailwind, Netlify/GitHub Pages, formulaire → e-mail/Telegram.
+- 🔗 LIVE: 
+- 🖼️ Preview: `assets/landing-dashboard.png`
+
+---
+
+### 3) Copytrading Wallet – Hyperliquid (Paper)
+Page de présentation d’un **bot de suivi d’adresses** (paper), sizing auto, logs & alertes Telegram.
+- **Fonctions** : suivi positions, PnL paper, limites de risque, CSV/rapports.
+- **Stack** : HTML/Tailwind, formulaire → Telegram, démo vidéo (Loom).
+- 🔗 LIVE: https://bot-4t.github.io/HyperLiquid_copywallets/
+- 🖼️ Preview: `assets/landing-copywallet.png`
+> *Mode démonstration (paper). Aucun ordre réel, aucune promesse de performance, pas de collecte de fonds.*
+
+---
+
+### 📦 Fichiers / Structure conseillée
 ---
 
 ## 📂 Repository Structure
