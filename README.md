@@ -67,7 +67,7 @@ Page de présentation d’un **outil de suivi d’adresses** (paper), sizing aut
 
 > **Mode démonstration (PAPER).** Aucune exécution réelle, aucune promesse de performance, 
 > pas de collecte de fonds. **PoC non contractuel** destiné à montrer le rendu. 
-> **Usage personnel uniquement.** Les clés/API restent chez l’utilisateur. 
+> **Usage personnel uniquement.**  
 > Aucune RTO ni exécution pour autrui. Ce projet n’est pas et ne sera pas distribué ni commercialisé.
 ---
 
