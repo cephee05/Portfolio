@@ -46,7 +46,6 @@ Site vitrine pour la conception d’**outils d’aide à la décision** (backtes
 - **Stack** : HTML/Tailwind, Formulaire → Telegram DM, statique (GitHub Pages/VPS).
 - **CTA** : Demande de démo / audit gratuit.
 - 🔗 LIVE: https://bot-4t.github.io/DEV-4TRADINGALGO/
-- 🖼️ Preview: `assets/landing-algo.png`
 > *Avertissement : pas de conseil en investissement ; outils pédagogiques & d’aide à la décision uniquement.*
 
 ---
@@ -57,7 +56,6 @@ Landing B2B pour **reporting P&L/KPI**, **budgets/forecasts**, **exports PDF**, 
 - **Promesse** : -70% temps de production de reportings (indicatif).
 - **Stack** : HTML/Tailwind, Netlify/GitHub Pages, formulaire → e-mail/Telegram.
 - 🔗 LIVE: 
-- 🖼️ Preview: `assets/landing-dashboard.png`
 
 ---
 
@@ -66,9 +64,10 @@ Page de présentation d’un **bot de suivi d’adresses** (paper), sizing auto,
 - **Fonctions** : suivi positions, PnL paper, limites de risque, CSV/rapports.
 - **Stack** : HTML/Tailwind, formulaire → Telegram, démo vidéo (Loom).
 - 🔗 LIVE: https://bot-4t.github.io/HyperLiquid_copywallets/
-- 🖼️ Preview: `assets/landing-copywallet.png`
-> *Mode démonstration (paper). Aucun ordre réel, aucune promesse de performance, pas de collecte de fonds.*
 
+> *Mode démonstration (paper). Aucun ordre réel, aucune promesse de performance, pas de collecte de fonds.*
+> *Proof of Concept (PoC) : page de démonstration non contractuelle, créée pour montrer à quoi pourrait ressembler le projet.*
+> *Ce projet est uniquement utilisé à but personnel il n'est et ne sera pas distribué à une tiers personne.*
 ---
 
 ### 📦 Fichiers / Structure conseillée
